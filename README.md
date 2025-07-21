@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou a Flavia Dias
+##👋 Olá! Eu sou a Flavia Dias
 
 🎓 Estudante de Tecnologia com foco em *Análise de Dados*  
 📊 Explorando dados com *SQL, **Power BI* e *Python*  
